@@ -1,1 +1,2 @@
+This is master
 While using Git, sometimes you may encounter multiple errors and warnings while performing different tasks, such as creating new projects files and folders in different scenarios, such as while tracking files from the working directory to the staging area. The “warning: LF will be replaced by CRLF” is the most common warning you may face while adding files to Git local repository.
